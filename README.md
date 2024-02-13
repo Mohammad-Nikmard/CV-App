@@ -1,11 +1,18 @@
-![image](assets/mockup.png)
-
 
 # CV App
+
+![image](assets/mockup.png)
+
 
 ## Overview
 this is a CV app to demonstrate my skills and profession that i've been working on as a mobile developer, 
 further achievements and progresses will be added to see.
+
+
+## Packages Used 
+ - font_awesome_flutter
+ - url_launcher
+ - flutter_launcher_icons
 
 ## Technologies Used
 - Language: Dart
