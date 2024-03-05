@@ -162,8 +162,10 @@ Widget _gettext() {
     "مسلط به زبان دارت",
     "آشنا با معماری solid و Clean Code",
     "مسلط به state management هایی از جمله  BLoC",
-    "آشنا با نحوه ی کار با Restful API",
+    "آشنا با نحوه ی کار با Restful API ها و GraphQL"
     "آشنا با تحوه ی کار با دیتابیس هایی از جمله Hive",
+    "آشنا و دارای تجربه ی کار با سرویس بکند Firebase"
+    "آشنا با موضوع ci/cd"
     "مسلط به گیت و گیت هاب و گیت لب",
     "مسلط به زبان انگلیسی",
   ];
@@ -185,7 +187,7 @@ Widget _gettext() {
             for (var element in list)
               Text("$element",
                   textDirection: TextDirection.rtl,
-                  style: TextStyle(fontSize: 18))
+                  style: TextStyle(fontSize: 18),),
           ],
         ),
       ),
